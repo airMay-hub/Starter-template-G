@@ -3,7 +3,7 @@ My template to get started with a layout using Gulp
 
 ## To start new project
 
-* copy files to project folder:
+* copy next files to project folder:
     + src
     + gulpfile.js
     + package.json
